@@ -4,8 +4,8 @@
   "description": "A simple API that provides weather data",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=production node index.js",
-    "dev": "NODE_ENV=development nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Frozen Burrito",
   "license": "ISC",
